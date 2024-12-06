@@ -11,6 +11,6 @@ This project shows the design procedure of a TX FIR Equalizer for a 12 Gb/s inpu
 ![image](https://github.com/user-attachments/assets/f4b49da8-0dd4-4d61-8694-ac385433c8d0)
 
 *****************
-For design details, check the report: ([Report: Tx FIR Equalization](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/%5BReport%5D%20TX%20FIR%20Eqz%20-%20Final.pdf))</br>
-For testbench setup & simulation details, check the reports: ([Pulse Responses](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/Simulation%20Details/1-%20TX%20FIR%20Eqz%20-%20Pulse%20Response.pdf))([Eye Diagrams](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/Simulation%20Details/2-%20TX%20FIR%20Eqz%20-%20Eye%20Diagram.pdf))</br>
+For design details, check the report: ([Report: Tx FIR Equalization](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/%5BReport%5D%20TX%20FIR%20Eqz%20-%20Final.pdf))</br></br>
+For testbench setup & simulation details, check the reports: ([Pulse Responses](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/Simulation%20Details/1-%20TX%20FIR%20Eqz%20-%20Pulse%20Response.pdf))([Eye Diagrams](https://github.com/muhammadaldacher/SERDES-Design-of-TX-FIR-Equalizer/blob/main/Simulation%20Details/2-%20TX%20FIR%20Eqz%20-%20Eye%20Diagram.pdf))</br></br>
 My project on google drive: ([Drive](https://drive.google.com/drive/folders/1EeWcwJJzAg27cHFEme2Qibujbr__lI-B?usp=drive_link)) <br/>
